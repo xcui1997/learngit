@@ -1,4 +1,4 @@
-Git id s version control system
+Git id is version control system
 Git is free software.
 GIT is a distributed version contaol system.
 
